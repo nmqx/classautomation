@@ -1,4 +1,4 @@
-# CMsystemes
+# classautomation
 
 A self-hosted study pipeline. Lecture recordings and course slides go in; LaTeX revision sheets,
 interactive exercises and a private, searchable course site come out, automatically, on a 2014 Mac mini.
